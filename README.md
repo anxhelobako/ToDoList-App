@@ -35,11 +35,6 @@ A modern, glass-morphism styled task manager to boost your productivity.
 - localStorage API
 - GitHub Pages (for deployment)
 
-## 🖥️ Demo
-
-[Live Demo](#) *(Add your deployment link here)*
-
-
 ## 🛠️ Installation
 
 ```bash
