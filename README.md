@@ -38,7 +38,6 @@ A modern, glass-morphism styled task manager to boost your productivity.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/todolist-app.git
 cd todolist-app
 npm install
 npm start
